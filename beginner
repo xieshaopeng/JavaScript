@@ -38,6 +38,16 @@ else // "otherwise"
 alter("string")
 
 8.
+//remainder 余数
+17%6   ==>5
+
+9.
+//
+
+
+
+
+
 //
 
 
