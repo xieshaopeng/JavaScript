@@ -1,4 +1,16 @@
 1.
 弹框提醒：
 confirm("hell");
+
 2.
+//print function
+console.log()
+
+3.
+"string".length;
+
+4.
+//
+prompt("what is your name?");
+
+5.
