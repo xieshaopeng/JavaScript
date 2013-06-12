@@ -42,13 +42,12 @@ alter("string")
 17%6   ==>5
 
 9.
+//substring ==>start from 0
+"wonderful day".substring(3,7)
+
+10.
 //
 
-
-
-
-
-//
 
 
 
