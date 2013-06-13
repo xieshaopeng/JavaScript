@@ -46,8 +46,13 @@ alter("string")
 "wonderful day".substring(3,7)
 
 10.
-//
+//create a variable
+var myAge = "Thirty";
 
+11.
+Remember: = is for assignment, and === is to check if things are equal!
+
+12.
 
 
 
